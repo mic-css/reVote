@@ -13,5 +13,8 @@
     "mocha": true,
     "node": true
   },
-  "plugins": ["react"]
+  "plugins": [
+    "html",
+    "react"
+  ]
 }
